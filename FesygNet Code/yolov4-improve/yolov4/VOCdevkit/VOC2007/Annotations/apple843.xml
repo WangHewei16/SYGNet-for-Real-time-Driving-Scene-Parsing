@@ -1,0 +1,38 @@
+<annotation>
+	<folder>valid_splits</folder>
+	<filename>gear7s (30)_04_03.png</filename>
+	<path>C:\Users\koiralaa\Desktop\ANNOTATIONS\valid_splits\gear7s (30)_04_03.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>115</ymin>
+			<xmax>457</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>97</ymin>
+			<xmax>502</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+</annotation>

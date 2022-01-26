@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_splits</folder>
+	<filename>gear8s (52)_03_04.png</filename>
+	<path>E:\mango\train_splits\gear8s (52)_03_04.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>296</ymin>
+			<xmax>258</xmax>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+</annotation>

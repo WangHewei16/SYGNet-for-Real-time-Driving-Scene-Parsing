@@ -1,0 +1,38 @@
+<annotation>
+	<folder>L</folder>
+	<filename>gear2s (16)_02_01.png</filename>
+	<path>E:\mango\test_splits\L\gear2s (16)_02_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>397</ymin>
+			<xmax>119</xmax>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>439</ymin>
+			<xmax>92</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+</annotation>
