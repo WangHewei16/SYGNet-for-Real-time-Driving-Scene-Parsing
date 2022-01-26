@@ -10,6 +10,7 @@ All code are written in Python3
 
 ### Model
 #### Feature Extraction Module
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Architecture%20diagram%20of%20feature%20extraction%20module.pdf?raw=true" width="1000"/></div>
 #### SVD-YOLO GhostNet Module
 
 ### Data
