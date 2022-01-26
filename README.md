@@ -22,6 +22,15 @@ FesygNet is composed of two modules: feature extraction module and SVD-YOLO Ghos
 We use KITTI dataset which is available in this link (http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=2d)
 
 ### Experiment figure
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure1-ablation.png?raw=true" width="300"/></div>
 
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure2-qualitative.png?raw=true" width="300"/></div>
 
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure3-quantitative.jpg?raw=false" width="200"/></div>
+
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure4-quantitative.jpg?raw=false" width="200"/></div>
+
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure5-quantitative.jpg?raw=false" width="200"/></div>
+
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure6-quantitative.jpg.jpg?raw=false" width="200"/></div>
 ### Experiment table
