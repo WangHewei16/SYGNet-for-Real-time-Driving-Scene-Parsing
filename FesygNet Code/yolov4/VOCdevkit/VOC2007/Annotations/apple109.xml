@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_splits</folder>
+	<filename>gear10n (41)_02_04.png</filename>
+	<path>C:\Users\koiralaa\Desktop\ANNOTATIONS\train_splits\gear10n (41)_02_04.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>424</ymin>
+			<xmax>351</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>475</xmin>
+			<ymin>409</ymin>
+			<xmax>523</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

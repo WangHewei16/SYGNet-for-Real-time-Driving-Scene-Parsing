@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_splits</folder>
+	<filename>gear10n (45)_01_02.png</filename>
+	<path>E:\mango\train_splits\gear10n (45)_01_02.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>423</ymin>
+			<xmax>242</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>314</xmin>
+			<ymin>425</ymin>
+			<xmax>358</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

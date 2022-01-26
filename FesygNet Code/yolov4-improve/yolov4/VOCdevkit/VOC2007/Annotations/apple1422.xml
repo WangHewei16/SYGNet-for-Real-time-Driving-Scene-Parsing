@@ -1,0 +1,50 @@
+<annotation>
+	<folder>train_splits</folder>
+	<filename>gear9n (22)_02_01.png</filename>
+	<path>C:\Users\koiralaa\Desktop\ANNOTATIONS\train_splits\gear9n (22)_02_01.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>379</xmin>
+			<ymin>330</ymin>
+			<xmax>432</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>453</xmin>
+			<ymin>449</ymin>
+			<xmax>504</xmax>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>479</ymin>
+			<xmax>513</xmax>
+			<ymax>512</ymax>
+		</bndbox>
+	</object>
+</annotation>

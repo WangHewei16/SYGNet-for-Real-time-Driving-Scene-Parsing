@@ -1,0 +1,26 @@
+<annotation>
+	<folder>valid_splits</folder>
+	<filename>gear7n (9)_04_03.png</filename>
+	<path>E:\mango\valid_splits\gear7n (9)_04_03.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>18</ymin>
+			<xmax>156</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>

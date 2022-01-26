@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_splits</folder>
+	<filename>gear8s (36)_01_02.png</filename>
+	<path>C:\Users\koiralaa\Desktop\ANNOTATIONS\train_splits\gear8s (36)_01_02.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>163</xmin>
+			<ymin>394</ymin>
+			<xmax>205</xmax>
+			<ymax>445</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>valid_splits</folder>
+	<filename>gear7n (15)_01_02.png</filename>
+	<path>C:\Users\koiralaa\Desktop\ANNOTATIONS\valid_splits\gear7n (15)_01_02.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>M</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>388</ymin>
+			<xmax>591</xmax>
+			<ymax>425</ymax>
+		</bndbox>
+	</object>
+</annotation>
