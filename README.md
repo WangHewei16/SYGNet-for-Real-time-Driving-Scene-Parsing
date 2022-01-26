@@ -13,6 +13,7 @@ All code are written in Python3
 <div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Architecture%20diagram%20of%20feature%20extraction%20module.png?raw=true" width="900"/></div>
 
 #### SVD-YOLO GhostNet Module
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Architecture%20diagram%20of%20SVD-YOLO3%20structure.png?raw=true" width="900"/></div>
 
 ### Data
 
