@@ -26,7 +26,8 @@ We use KITTI dataset which is available in this link (http://www.cvlibs.net/data
 
 <div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure2-qualitative.png?raw=true" width="500"/></div>
 
-<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure3-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure4-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure5-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure6-quantitative.jpg?raw=false" width="250"/></div>
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure3-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure4-quantitative.jpg?raw=false" width="250"/></div>
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure5-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure6-quantitative.jpg?raw=false" width="250"/></div>
 
 ### Experiment table
 <div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Table1.png?raw=true" width="400"/></div>
