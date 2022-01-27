@@ -45,3 +45,8 @@ human, road and All mode) with the increase of training time. We can see that at
 * `Table3.png`: This table show the comparison with different methods in three different scene modes (cars, human and edge mode), it can be found that the FesygNet has good performance in terms of reliability, which verifies the reliability under the same data set.
 <div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Table3.png?raw=true" width="390"/></div>
 
+* `Table2.png`: This table demonstrates the SVD-YOLOv3 algorithm has the best performance in five different mode (Cars, People, Edge, Side and Light mode) in KITTI data set, which further confirmed that SVD-YOLOv3 has good performance in perceptual recognition. Hence I decide to use SVD-YOLOv3 in this module.
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Table2.png?raw=true" width="320"/></div>
+
+* `Table3.png`: This table show the comparison with different methods in three different scene modes (cars, human and edge mode), it can be found that the FesygNet has good performance in terms of reliability, which verifies the reliability under the same data set.
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Table3.png?raw=true" width="390"/></div>
