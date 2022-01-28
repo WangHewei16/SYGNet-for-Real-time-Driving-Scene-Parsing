@@ -44,3 +44,5 @@ human, road and All mode) with the increase of training time. We can see that at
 
 * `Table3.png`: This table show the comparison with different methods in three different scene modes (cars, human and edge mode), it can be found that the FesygNet has good performance in terms of reliability, which verifies the reliability under the same data set.
 <div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Table3.png?raw=true" width="390"/></div>
+
+
