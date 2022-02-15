@@ -32,8 +32,8 @@ recognized. We can see that our perceptual recognition effect is good, and we ha
 
 * `Figure3,4,5,6-quantitative.jpg`: This figure shows the experiment about the accuracy’s changes of different models in four different scene modes (cars,
 human, road and All mode) with the increase of training time. We can see that at the end of the training, our proposed FesygNet has far surpassed other comparison methods. In the “All mode” scene, FesygNet ranks first among these methods in the whole process, which can prove the superiority of our method in accuracy and training optimization.
-<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure3-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure4-quantitative.jpg?raw=false" width="250"/></div>
-<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure5-quantitative.jpg?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure6-quantitative.jpg?raw=false" width="250"/></div>
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure3-quantitative.png?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure4-quantitative.png?raw=false" width="250"/></div>
+<div align=center><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure5-quantitative.png?raw=false" width="250"/><img src="https://github.com/WangHewei16/FesygNet-for-Autonomous-Driving-Recognition/blob/main/Figure6-quantitative.png?raw=false" width="250"/></div>
 
 ### Experiment table
 * `Table1.png`: This table demonstrates the SVD-YOLOv3 algorithm has the best performance in five different mode (Cars, People, Edge, Side and Light mode) in KITTI data set, which further confirmed that SVD-YOLOv3 has good performance in perceptual recognition. Hence I decide to use SVD-YOLOv3 in this module.
