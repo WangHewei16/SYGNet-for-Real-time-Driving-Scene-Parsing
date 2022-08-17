@@ -5,7 +5,7 @@ In this research, the SYGNet is proposed to further strengthen the scene parsing
 
 
 ### Code Organization
-All code are written in `Python3`
+All code are written in `Python3`.
 
 
 ### Model
