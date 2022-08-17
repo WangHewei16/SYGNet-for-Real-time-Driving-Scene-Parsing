@@ -5,13 +5,11 @@ In this research, the SYGNet is proposed to further strengthen the scene parsing
 
 
 ### Code Organization
-All code are written in Python3
+All code are written in `Python3`
 
 
 ### Model
-SYGNet is composed of two modules: feature extraction module and SVD-YOLO GhostNet module. The first module is used to extract important perceptual scene features. The second module is responsible for using the model and training parameters to obtain high accuracy perceptual recognition results. 
-
-* `Architecture of FE.png`: This figure illustrates the architecture for feature extraction module.
+SYGNet is composed of two modules: feature extraction module and SVD-YOLO GhostNet module. The first module is used to extract important perceptual scene features. The second module is responsible for using the model and training parameters to obtain high accuracy perceptual recognition results. `Architecture of FE.png` illustrates the architecture for feature extraction module.
 
 
 ### Data
