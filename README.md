@@ -11,10 +11,7 @@ All code are written in Python3
 ### Model
 SYGNet is composed of two modules: feature extraction module and SVD-YOLO GhostNet module. The first module is used to extract important perceptual scene features. The second module is responsible for using the model and training parameters to obtain high accuracy perceptual recognition results. 
 
-* `Architecture diagram of feature extraction module.png`: This figure illustrates the architecture for feature extraction module, which is the first module in FesygNet. Feature extraction learning includes two branches: LiDAR Stream and Camera Stream, which extract point cloud features and image features respectively. The VFE layer designed by VoxelNet is inspired by PointNet. For the camera branch, a 2D convolution neural network similar to ResNet is designed to extract the point level features Take the image features corresponding to the point cloud data, which can capture deeper image texture features to achieve better modal fusion. Then the result of two streams will merge in feature fusion stage, where has an attention fusion layer to deal with the combined data. After that, it will convert to Region Proposal Network (RPN) in 3D box estimation stage. Finally, the future map with extracted feature will be generated.
-
-
-* `Architecture diagram of SVD-YOLO3 structure.png`: This figure illustrates the architecture for SVD-YOLO3 structure in the second module in SYGNet. After finishing the operations of SVD-YOLO algorithm in this module, I connect a GhostNet at the end of the module. The GhostNet is the plug-and-play module that converts the original model into a more compact model while maintaining comparable performance.
+* `Architecture of FE.png`: This figure illustrates the architecture for feature extraction module.
 
 
 ### Data
