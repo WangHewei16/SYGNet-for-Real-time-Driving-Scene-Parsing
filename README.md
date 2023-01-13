@@ -1,4 +1,4 @@
-# SYGNet: A SVD-YOLO based GhostNet for Real-time Driving Scene Parsing
+# SYGNet-for-Real-time-Driving-Scene-Parsing
 
 ### Executive summary
 In this research, the SYGNet is proposed to further strengthen the scene parsing ability of autonomous driving under complicated road conditions. SYGNet includes feature extraction component and SVD-YOLO GhostNet component. SVD-YOLO GhostNet component combines Singular Value Decomposition (SVD), You Only Look Once (YOLO) and GhostNet. In the feature extraction component, we propose an algorithm based on VoxelNet to extract point cloud features and image features. In SVD-YOLO GhostNet component, the image data is decomposed by SVD, and data with stronger spatial and environmental characteristics is obtained. YOLOv3 are used to obtain the future map, then convert to GhostNet, which to realize the real-time scene parsing. We use KITTI data set to do experiments and the results show that the SYGNet is more robust and can further enhance the accuracy of real-time driving scene parsing.
